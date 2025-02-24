@@ -15,7 +15,7 @@ require (
 	github.com/fvbommel/sortorder v1.1.0
 	github.com/go-acme/lego/v4 v4.18.0
 	github.com/go-chi/chi/v5 v5.1.0
-	github.com/go-jose/go-jose/v4 v4.0.4
+	github.com/go-jose/go-jose/v4 v4.0.5
 	github.com/go-logr/logr v1.4.2
 	github.com/golang-jwt/jwt/v5 v5.2.1
 	github.com/google/gopacket v1.1.19
@@ -48,18 +48,18 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.1
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/syndtr/gocapability v0.0.0-20200815063812-42c35b437635
 	github.com/vishvananda/netlink v1.3.0
 	github.com/zitadel/oidc/v3 v3.30.0
 	go.starlark.net v0.0.0-20240925182052-1207426daebd
-	golang.org/x/crypto v0.27.0
+	golang.org/x/crypto v0.32.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	golang.org/x/oauth2 v0.23.0
-	golang.org/x/sync v0.8.0
-	golang.org/x/sys v0.25.0
-	golang.org/x/term v0.24.0
-	golang.org/x/text v0.18.0
+	golang.org/x/sync v0.10.0
+	golang.org/x/sys v0.29.0
+	golang.org/x/term v0.28.0
+	golang.org/x/text v0.21.0
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637
 	gopkg.in/yaml.v2 v2.4.0
