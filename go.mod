@@ -40,7 +40,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/runtime-spec v1.2.0
 	github.com/openfga/go-sdk v0.6.5
-	github.com/osrg/gobgp/v3 v3.34.0
+	github.com/osrg/gobgp/v3 v3.35.0
 	github.com/ovn-org/libovsdb v0.7.0
 	github.com/pierrec/lz4/v4 v4.1.22
 	github.com/pkg/sftp v1.13.7
